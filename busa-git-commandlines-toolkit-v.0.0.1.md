@@ -14,7 +14,10 @@ Get $bash unix shell commandlines toolkit v.0.0.1
             <td><code>$ git --version </code></td>
             <td id="fadeout-1">Which Version.</td>
           </tr>
-
+              <tr>
+            <td><code>Update Soon!</code></td>
+            <td id="fadeout-1">Stay Tuned!</td>
+          </tr>
   
         </tbody>
       </table>
