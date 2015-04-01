@@ -11,8 +11,8 @@ Get $bash unix shell commandlines toolkit v.0.0.1
         </thead>
         <tbody>
           <tr>
-            <td><code>$ cd</code></td>
-            <td id="fadeout-1">Update Soon all Gits! Stay Tuned!</td>
+            <td><code>$ git --version </code></td>
+            <td id="fadeout-1">Which Version.</td>
           </tr>
 
   
